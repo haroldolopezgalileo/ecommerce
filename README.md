@@ -88,3 +88,6 @@ https://<username>.github.io/<nombre-del-repositorio>/
 ```
 
 ¡Y listo! Tu proyecto de Vite con React debería estar funcionando en GitHub Pages.
+
+**Ejemplo de este repositorio**
+[https://haroldolopezgalileo.github.io/ecommerce/](https://haroldolopezgalileo.github.io/ecommerce/)
